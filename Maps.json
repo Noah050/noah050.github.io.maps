@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Grand Canyon",
+        "address": "14001 N 7th St, Phoenix, AZ 85022",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12894.970378963359!2d-112.12123936276491!3d36.099762281579544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80cc0654bd27e08d%3A0xb1c2554442d42e8d!2sGrand%20Canyon!5e0!3m2!1sen!2sus!4v1648584920775!5m2!1sen!2sus",
+        "img": "Images/Grand-Canyon.jpg"
+    },
+
+    {
+        "name": "Statue of Liberty",
+        "address": "New York, NY 10004",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.3063874233158!2d-74.04668908446463!3d40.68924937933437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25090129c363d%3A0x40c6a5770d25022b!2sStatue%20of%20Liberty!5e0!3m2!1sen!2sus!4v1648587764401!5m2!1sen!2sus",
+        "img": "Images/StatueofLiberty.jpg"
+    },
+
+    {
+        "name": "Eiffel Tower",
+        "address": "Champ de Mars, 75007 Paris, France",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2625.077369040577!2d2.289617015788071!3d48.856735029287364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e2964e34e2d%3A0x8ddca9ee380ef7e0!2sEiffel%20Tower!5e0!3m2!1sen!2sus!4v1648587684619!5m2!1sen!2sus",
+        "img": "Images/EiffelTower.webp"
+    }
+
+]
